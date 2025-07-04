@@ -1,0 +1,33 @@
+.quote-card {
+  margin-top: 1.5rem;
+}
+
+.quote-content {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #444;
+}
+
+.quote-author {
+  margin-top: 0.8rem;
+  font-size: 1.2rem;
+  color: #777;
+}
+
+.quote-actions {
+  margin-top: 1.2rem;
+}
+
+.quote-actions button {
+  margin: 0 0.5rem;
+  padding: 0.5rem 1rem;
+  background: #6c5ce7;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.quote-actions button:hover {
+  background: #5a4ac9;
+}
